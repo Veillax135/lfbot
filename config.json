@@ -1,0 +1,51 @@
+    {
+    "bounty_channel": 1170852177665863690,
+    "hunters": {
+        "jako_fett.": {
+            "name": "Jako",
+            "count": 1,
+            "rank": 1,
+            "avatar": "https://cdn.discordapp.com/avatars/998956850886230148/a1c4d220912675fc82ddbb196be34e14.png?size=4096"
+        },
+        "veillax135": {
+            "name": "Veillax135",
+            "count": 1,
+            "rank": 1,
+            "avatar": "https://cdn.discordapp.com/avatars/758058288024911962/f7e7cf9ba58067fb3eb2923dc1cea97e.png?size=1024"
+        },
+        "2pups_mb": {
+            "name": "2\ud83c\udd3f\ud83c\udd44\ud83c\udd3f\ud83c\udd42_\ud83c\udd3c\ud83c\udd31",
+            "count": 5,
+            "rank": 2,
+            "avatar": "https://cdn.discordapp.com/avatars/713482420694810687/5c366561e8d3ea156bf682adf04eab9f.png?size=1024"
+        },
+        "cheese_21503": {
+            "name": "cheese",
+            "count": 1,
+            "rank": 0,
+            "avatar": "https://cdn.discordapp.com/avatars/1150895806300303420/265056936bb7ee659d89cf3b503ae637.png?size=1024"
+        },
+        "olivialoftis": {
+            "name": "wolfgirl",
+            "count": 2,
+            "rank": 1,
+            "avatar": "https://cdn.discordapp.com/avatars/1144774489545117798/801a0ed80b8a8a70dcc90177b08adf8a.png?size=1024"
+        }
+    },
+    "bounties": {
+        "1": {
+            "target": "OofThe4th",
+            "reward": "7 Diamonds"
+        },
+        "2": {
+            "target": "cinderchili",
+            "reward": "4 Diamonds"
+        }
+    },
+    "bounty_id": 3,
+    "bot_commands": {
+        "help": "Help Command",
+        "ping": "Check the bot's latency",
+        "hunters list": "List the stats of a hunter"
+    }
+}
